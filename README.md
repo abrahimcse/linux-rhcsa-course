@@ -41,7 +41,7 @@ This course is practical, simple, and focused on real Linux server usage.
 
 ## Repository Structure
 
-Each chapter is written in a separate Markdown file.
+Each chapter is written in a separate file.
 
 ```text
 linux-rhcsa-course/
