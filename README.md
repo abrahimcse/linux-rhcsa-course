@@ -189,11 +189,11 @@ linux-rhcsa-course/
 
 ### Each chapter includes:
 
-    - Command examples
+- Command examples
 
-    - Practice tasks
+- Practice tasks
 
-    - Real-life server scenarios
+- Real-life server scenarios
 
 Practice is mandatory.
 Only reading will not build skill.
