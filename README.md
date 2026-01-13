@@ -123,7 +123,7 @@ linux-rhcsa-course/
 
 ## 07. Process Management
 
-P- rocess basics
+- Process basics
 
 - ps and top commands
 
