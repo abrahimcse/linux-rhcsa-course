@@ -1,41 +1,8 @@
-# Linux & RHCSA Course (Beginner to Admin)
+# RHCSA Linux Training – Beginner to Admin
 
-This repository is created to help beginners learn **Linux and RHCSA** step by step.
+## Course Overview
 
-No previous Linux knowledge is required.  
-We start from basic level and slowly move to system administrator level.
-
-This course is practical, simple, and focused on real Linux server usage.
-
----
-
-## Course Objective
-
-- Learn Linux from scratch
-- Understand real Linux server environment
-- Build strong command-line skills
-- Prepare for RHCSA exam
-- Gain confidence in Linux administration
-
----
-
-## Who This Course Is For
-
-- Absolute beginners
-- Students and job seekers
-- DevOps beginners
-- System administrator learners
-- Anyone who wants to learn Linux properly
-
----
-
-## Learning Method
-
-- Simple and clear explanation
-- Step-by-step topics
-- Real command examples
-- Hands-on practice
-- Chapter-wise notes
+This repository contains **step-by-step Linux (RHEL) training notes** designed for **complete beginners** and **RHCSA exam candidates**.
 
 ---
 
@@ -50,188 +17,88 @@ linux-rhcsa-course/
 ├── 02-filesystem.md
 ├── 03-file-operations.md
 ├── 04-permissions.md
-├── 05-users-groups.md
-├── 06-packages.md
+├── 05-user-management.md
+├── 06-group-management.md
 ├── 07-process-management.md
-├── 08-disk-management.md
-├── 09-networking.md
+├── 08-package-management.md
+├── 09-networking-basics.md
 ├── 10-systemd-services.md
-├── 11-logs-troubleshooting.md
-├── 12-backup-archive.md
-├── 13-bash-basics.md
-└── 14-rhcsa-exam-prep.md
+├── 11-logs-management.md
+├── 12-storage-management.md
+├── 13-lvm-basics.md
+├── 14-boot-process.md
+├── 15-rescue-emergency-mode.md
+├── 16-ssh-scp-sftp.md
+├── 17-cron-at-job.md
+├── 18-selinux-basics.md
+├── 19-firewalld.md
+├── 20-archive-tar-zip.md
+├── 21-bootloader-grub2.md
+├── 22-filesystem-check-fsck.md
+└── 23-bash-scripting-basics.md
 ```
 
-# Chapter Overview
-## 00. Introduction
+## Course Roadmap
 
-- What is Linux
+### Basics
 
-- Why Linux is important
+* 00 Introduction
+* 01 Installation
+* 02 Filesystem
+* 03 File Operations
+* 04 Permissions
 
-- Linux vs Windows
+### Core Admin
 
-- RHCSA exam overview
+* 05 User Management
+* 06 Group Management
+* 07 Process Management
+* 08 Package Management
+* 09 Networking Basics
+* 10 systemctl & Services
+* 11 Log Management
 
-## 01. Installation
+### Storage
 
-- Virtual machine setup
+* 12 Storage Management
+* 13 LVM Basics
 
-- Linux installation step by step
+### Boot & Recovery
 
-- Login and basic access
+* 14 Boot Process
+* 15 Rescue & Emergency Mode
+* 21 GRUB2 Bootloader
 
-## 02. File System
+### Security
 
-- Linux directory structure
+* 18 SELinux Basics
+* 19 firewalld
 
-- Important system folders
+### Automation & Tools
 
-- Absolute and relative paths
+* 16 SSH / SCP / SFTP
+* 17 Cron & AT Jobs
+* 20 Archive & Compression
+* 23 Bash Scripting
 
-## 03. File Operations
+---
 
-- Create and delete files
+## How to Use
 
-- Copy and move files
+1. Read chapter-wise
+2. Practice commands
+3. Break & fix system
+4. Prepare for RHCSA
 
-- View file content
+---
 
-## 04. Permissions
+## Goal
 
-- File permissions (read, write, execute)
+✔ Real Linux Admin Skills
+✔ RHCSA Exam Ready
 
-- chmod and chown
+---
 
-- Basic Linux security concept
-
-## 05. Users and Groups
-
-- Create and remove users
-
-- Group management
-
-- sudo access concept
-
-## 06. Package Management
-
-- dnf and yum basics
-
-- Install and remove software
-
-- Repository idea
-
-## 07. Process Management
-
-- Process basics
-
-- ps and top commands
-
-- Kill and manage processes
-
-## 08. Disk Management
-
-- Disk and partitions
-
-- Mount and unmount file systems
-
-- Disk usage monitoring
-
-## 09. Networking
-
-- IP address and DNS basics
-
-- Network commands
-
-- Connectivity testing
-
-## 10. systemd and Services
-
-- systemctl commands
-
-- Start and stop services
-
-- Enable services at boot
-
-- 11. Logs and Troubleshooting
-
-- System log files
-
-- journalctl usage
-
-- Basic troubleshooting steps
-
-## 12. Backup and Archive
-
-- tar and gzip usage
-
-- Backup basics
-
-- Restore data
-
-## 13. Bash Basics
-
-- Bash shell introduction
-
-- Variables and scripts
-
-- Simple automation tasks
-
-## 14. RHCSA Exam Preparation
-
-- Practice tasks
-
-- Common mistakes
-
-- Exam tips and strategy
-
-## Practice and Labs
-
-### Each chapter includes:
-
-- Command examples
-
-- Practice tasks
-
-- Real-life server scenarios
-
-Practice is mandatory.
-Only reading will not build skill.
-
-## How to Use This Repository
-
-- Start with 00-introduction.md
-
-- Read each chapter carefully
-
-- Run commands on your Linux system
-
-- Practice every topic
-
-- Move to the next chapter step by step
-
-## Contribution
-
-If you want to improve this repository:
-
-- Fork the project
-
-- Update notes
-
-- Create a pull request
-
-Learning together gives better result.
-
-## Final Note
-
-- Learning Linux needs:
-
-- Regular practice
-
-- Patience
-
-- Hands-on work
-
-If you practice daily, Linux will become clear and easy.
-
-Happy Learning 🚀
+*Maintained by:* 
+**Abdur Rahim**
+**DevOps Engineer**
