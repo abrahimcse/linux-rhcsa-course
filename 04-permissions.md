@@ -1,4 +1,4 @@
-# 04 – File Permissions in Linux (RHEL)
+# 04 - File Permissions in Linux (RHEL)
 
 ## Chapter Overview
 
@@ -6,7 +6,7 @@ In Linux, **permissions** control who can **read**, **write**, or **execute** a 
 
 As a Linux administrator (RHCSA level), this is **one of the MOST important topics**. Wrong permissions can break applications or create security risks.
 
-Don’t worry — we will learn this **slowly and clearly**, assuming you are a **complete beginner**.
+Don’t worry - we will learn this **slowly and clearly**, assuming you are a **complete beginner**.
 
 ---
 
