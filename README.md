@@ -100,5 +100,5 @@ linux-rhcsa-course/
 ---
 
 *Maintained by:* 
-**Abdur Rahim**
-**DevOps Engineer**
+- **Abdur Rahim**
+- **DevOps Engineer**
