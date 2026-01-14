@@ -1,4 +1,4 @@
-# 12 – Storage Management in Linux (RHEL)
+# 12 - Storage Management in Linux (RHEL)
 
 ## Chapter Overview
 
